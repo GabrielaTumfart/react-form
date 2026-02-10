@@ -28,7 +28,7 @@ export default function App() {
         <h1>React Blog</h1>
         <h2>Lista articoli</h2>
       
-    <div/>
+    </div>
   )
 }
 
