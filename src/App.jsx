@@ -29,7 +29,13 @@ export default function App() {
         <h2>Lista articoli</h2>
 
         <ul>
+
+        {articles.map((title, index) => (
+
           
+             ))}
+              
+
         </ul>
         
     
