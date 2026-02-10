@@ -19,12 +19,16 @@ export default function App() {
   
 
   return (
-    <>
+    <div style={
+      
+      { padding: "20px" }
+      
+      }>
 
         <h1>React Blog</h1>
         <h2>Lista articoli</h2>
       
-    </>
+    <div/>
   )
 }
 
