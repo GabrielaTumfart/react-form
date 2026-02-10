@@ -32,7 +32,12 @@ export default function App() {
 
         {articles.map((title, index) => (
 
-          
+          <li>
+
+            
+          </li>
+
+
              ))}
               
 
