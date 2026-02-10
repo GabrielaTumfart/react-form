@@ -6,11 +6,14 @@ import './App.css'
 export default function App() {
 
   const [articles, setArticles] = useState([
+    "Primo articolo",
+    "Secondo articolo",
+    "Terzo articolo"
 
 
 
 
-    
+
   ]);
 
   
